@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nirzon47/nirzon47/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nirzon47/nirzon47/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
