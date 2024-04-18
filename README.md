@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I am Nirzon and I'm a developer!</h2>
+<h2 align="left">Hi 👋! I am Nirzon and I'm a JavaScript developer!</h2>
+
+I'm a solution-oriented, full-stack web developer with expertise in JavaScript and TypeScript and their related libraries and frameworks, committed to delivering high-quality web solutions and pushing the boundaries of web development.</p>
+
+Pleasure to have you here!
 
 ###
 
