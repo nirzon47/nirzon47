@@ -7,7 +7,7 @@ Pleasure to have you here!
 ###
 
 <div align="left" style="margin-bottom: 2rem">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirzon47?right_color=#4CE4B6"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirzon47.nirzon47&?right_color=#4CE4B6"  />
 </div>
 
 ###
